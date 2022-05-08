@@ -1,2 +1,2 @@
 # ME-script
-Notebooks for constraining and solving COBRAme models
+Custom code for constraining and solving COBRAme models
